@@ -55,7 +55,7 @@ public class PruebaPractica1JoseBendaña {
                             case 3:
                                 System.out.println("Saliendo...");
                                 resp2='n';
-                                // aqui lo que hago es asignarle a la opcion2 el 8 para que se salga del ciclo a la hora de darle al 3
+                                // aqui lo que hago es asignarle a la resp2 la 'n' para que se salga del ciclo a la hora de darle al 3
                                 break;
                             default:
                                 break;
